@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="image_long_click_event">
+        <item>Сохранить изображение</item>
+    </string-array>
+    <string-array name="seq_not">
+        <item>Монеты накапливаются, отдохните немного</item>
+        <item>"Не волнуйтесь, начинаем копать"</item>
+        <item>ОПодождите, монеты копятся</item>
+    </string-array>
+</resources>

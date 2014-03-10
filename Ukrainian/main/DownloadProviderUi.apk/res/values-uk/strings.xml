@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_label">"Завантаження"</string>
+    <string name="download_title_sorted_by_date">"Завантаження - за датою"</string>
+    <string name="download_title_sorted_by_size">"Завантаження - за розміром"</string>
+    <string name="no_downloads">"Немає завантажень."</string>
+    <string name="no_downloading">"Немає завантаженого"</string>
+    <string name="no_downloaded">"Немає завантаженого"</string>
+    <string name="missing_title">"&lt;Невідомо&gt;"</string>
+    <string name="button_sort_by_size">"Сортувати за розміром"</string>
+    <string name="button_sort_by_date">"Сортувати за датою"</string>
+    <string name="download_queued">"У черзі"</string>
+    <string name="download_running">"У процесі"</string>
+    <string name="download_success">"Завершено"</string>
+    <string name="download_error">"Не вдалося"</string>
+    <string name="dialog_title_not_available">"Не вдалося завантажити"</string>
+    <string name="dialog_failed_body">"Спробувати ще раз завантажити файл пізніше або видалити його з черги?"</string>
+    <string name="dialog_title_queued_body">"Файл ще недоступний"</string>
+    <string name="dialog_queued_body">"Файл доданий в чергу завантаження."</string>
+    <string name="dialog_file_missing_body">"Не вдалося знайти завантажений файл."</string>
+    <string name="dialog_insufficient_space_on_external">"Неможливо завершити завантаження. На зовнішньому носії не вистачає місця."</string>
+    <string name="dialog_insufficient_space_on_cache">"Неможливо завершити завантаження. У вбудованій пам'яті не вистачає місця."</string>
+    <string name="dialog_cannot_resume">"Завантаження перервано і не може бути відновлено."</string>
+    <string name="dialog_file_already_exists">"Неможливо завантажити. Такий файл вже існує."</string>
+    <string name="dialog_media_not_found">"Неможливо завантажити. Зовнішній носій не підключений."</string>
+    <string name="download_no_application_title">"Неможливо відкрити файл"</string>
+    <string name="remove_download">"Видалити"</string>
+    <string name="delete_download">"Видалити"</string>
+    <string name="keep_queued_download">"Зберегти"</string>
+    <string name="cancel_running_download">"Скасувати"</string>
+    <string name="retry_download">"Повторити"</string>
+    <string name="deselect_all">"Зняти виділення"</string>
+    <string name="select_all">"Вибрати все"</string>
+    <string name="selected_count">"Вибрано %1$d"</string>
+    <string name="download_share_dialog">"Спосіб відправки"</string>
+    <string name="download_error_insufficient_memory">"Недостатньо пам'яті"</string>
+    <string name="download_error_invalid_descriptor">"Неприпустимий дескриптор"</string>
+    <string name="download_error_invalid_ddversion">"Невірна версія DD"</string>
+    <string name="download_error_attribute_mismatch">"Розбіжність атрибутів"</string>
+    <string name="download_paused">"Призупинено"</string>
+    <string name="authenticate_dialog_title">"Введіть ім'я користувача та пароль."</string>
+    <string name="username">"Ім'я"</string>
+    <string name="password">"Пароль"</string>
+    <string name="action">"Вхід"</string>
+    <string name="cancel">"Скасувати"</string>
+    <string name="ok">"OK"</string>
+    <string name="confirm_oma_download_title">"Підтвердити завантаження?"</string>
+    <string name="oma_download_name">"Ім'я:"</string>
+    <string name="oma_download_vendor">"Постачальник:"</string>
+    <string name="oma_download_type">"Тип:"</string>
+    <string name="oma_download_size">"Розмір:"</string>
+    <string name="oma_download_description">"Опис:"</string>
+    <string name="oma_download_content_not_supported">"Телефон не підтримує дане вміст. Не вдається знайти додаток для відкриття даного файлу. Все одно завантажити його?"</string>
+    <string name="confirm_oma_download_next_url">"Завантаження виконано. Перейти до наступної URL-адреси?"</string>
+    <string name="pause">"Призупинити"</string>
+    <string name="resume">"Відновити"</string>
+    <string name="delete_failed_with_SDcard">"Збій видалення файлу. Карта SD недоступна"</string>
+    <string name="share_download">"Надіслати"</string>
+    <string name="share_failed_with_download_error">"Неможливо поділитися файлом через помилку завантаження."</string>
+    <string name="downloading_title">"Завантажуване"</string>
+    <string name="downloaded_title">"Завантажене"</string>
+    <string name="menu_setting">"Налаштування"</string>
+    <string name="menu_pause_all">"Призупинити все"</string>
+    <string name="menu_resume_all">"Продовжити все"</string>
+    <string name="menu_clear_all">"Очистити все"</string>
+    <string name="message_open_app_fail">"помилка відкриття додатку"</string>
+    <string name="network_choice">"вибір мережі"</string>
+    <string name="only_wifi_title">"тільки Wi-Fi"</string>
+    <string name="only_wifi_summary">"зберегти дані"</string>
+    <string name="download_remind_title">"підказки по 2G/3G мережі"</string>
+    <string name="close_mobile_dialog_title">"Підказки"</string>
+    <string name="close_mobile_dialog_content">"Якщо відключити підказки, то не буде попереджень при завантаженні з 2G/3G мережі. 
+
+Ви впевнені, що хочете відключити повідомлення по завантаженню з 2G/3G мережі."</string>
+    <string name="close_mobile_dialog_positive">"OK"</string>
+    <string name="close_mobile_dialog_negative">"Скасувати"</string>
+    <string name="download_dialog_title">"завантажити поради"</string>
+    <string name="mobile_dialog_content_prefix">"Ви впевнені, що завантажити через мобільні мережі:
+"</string>
+    <string name="mobile_dialog_content_suffix">"
+це призведе до зниження швидкості потоку"</string>
+    <string name="mobile_dialog_positive">"завантаження"</string>
+    <string name="mobile_dialog_negative">"підключити Wi-Fi і завантажити"</string>
+    <string name="wifi_dialog_content">"Ви відкрили завантаження з використанням Wi-Fi, якщо ви хочете почати завантаження, ви повинні бути з Wi-Fi мережею.
+
+Ви впевнені, що знаходитеся близько з Wi-Fi мережею і почати закачування"</string>
+    <string name="wifi_dialog_positive">"OK"</string>
+    <string name="wifi_dialog_negative">"скасувати"</string>
+    <string name="delete_dialog_title">"видалити"</string>
+    <string name="delete_dialog_content">"Ви впевнені у видаленні %1$d завантажень?"</string>
+    <string name="delete_dialog_content3">"Ви впевнені у скасуванні і видаленні %1$d завантажень?
+"</string>
+    <string name="delete_dialog_content2">"видалити файл на диску"</string>
+    <string name="delete_dialog_positive">"OK"</string>
+    <string name="delete_dialog_negative">"Скасувати"</string>
+    <string name="status_pending">"в очікуванні"</string>
+    <string name="status_pause">"пауза"</string>
+    <string name="delete_all_dialog_title">"очистити всі історії"</string>
+    <string name="delete_all_dialog_content">"Ви впевнені, щоб хочете очистити всі історії?"</string>
+    <string name="delete_all_dialog_positive">"OK"</string>
+    <string name="delete_all_dialog_negative">"Скасувати"</string>
+    <string name="net_work_disconnect">"не вдається підключитися мережі-_-!"</string>
+    <string name="today">"Сьогодні"</string>
+    <string name="yesterday">"Вчора"</string>
+    <string name="last_month">"За місяць"</string>
+    <string name="older">"Старше"</string>
+    <string name="status_pause_for_network">"очікуємо мережу"</string>
+</resources>

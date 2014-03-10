@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_op02_text_encoding_choices">
+        <item>Автовизначення</item>
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Юнікод (UTF-8)</item>
+        <item>Юнікод (UTF-16)</item>
+        <item>Китайська (GB2312)</item>
+        <item>Китайська (GBK)</item>
+        <item>Китайська (Big5)</item>
+        <item>Японська (ISO-2022-JP)</item>
+        <item>Японська (SHIFT_JIS)</item>
+        <item>Японська (EUC-JP)</item>
+        <item>Корейська (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_default_font_family_choices">
+        <item>Sans-serif</item>
+        <item>Serif</item>
+        <item>Моношириний шрифт</item>
+    </string-array>
+    <string-array name="pref_homepage_choices_site_navigation">
+        <item>Поточна сторінка</item>
+        <item>Порожна сторінка</item>
+        <item>Базова сторінка</item>
+        <item>Часто відвідувані веб-сайти</item>
+        <item>Навігатор по сайтам</item>
+        <item>Інша</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Ніколи</item>
+        <item>Тільки через Wi-Fi</item>
+        <item>Завжди</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Так</item>
+        <item>За вимогою</item>
+        <item>Ні</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Поточна сторінка</item>
+        <item>Порожна сторінка</item>
+        <item>Базова сторінка</item>
+        <item>Часто відвідувані веб-сайти</item>
+        <item>Інша</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Дрібний</item>
+        <item>Малий</item>
+        <item>Середній</item>
+        <item>Великий</item>
+        <item>Гігантський</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Малий</item>
+        <item>Середній</item>
+        <item>Великий</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Автовизначення</item>
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Юнікод (UTF-8)</item>
+        <item>Китайська (GBK)</item>
+        <item>Китайська (Big5)</item>
+        <item>Японська (ISO-2022-JP)</item>
+        <item>Японська (SHIFT_JIS)</item>
+        <item>Японська (EUC-JP)</item>
+        <item>Корейська (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Ніколи</item>
+        <item>Тільки через Wi-Fi</item>
+        <item>Завжди</item>
+    </string-array>
+	<string-array name="predefined_websites_default_optr">
+		<item>Google</item>
+		<item>https://www.google.com.ua/</item>
+		<item>site_navigation_default_default1</item>
+		<item>4pda</item>
+		<item>http://4pda.ru/</item>
+		<item>site_navigation_default_default2</item>
+		<item>China-iPhone.ru</item>
+		<item>http://forum.china-iphone.ru/</item>
+		<item>site_navigation_default_default3</item>
+		<item>Mail.ru</item>
+		<item>http://mail.ru/</item>
+		<item>site_navigation_default_default4</item>
+		<item>Яндекс</item>
+		<item>http://www.yandex.ru/</item>
+		<item>site_navigation_default_default5</item>
+		<item>Rambler</item>
+		<item>http://www.rambler.ru/</item>
+		<item>site_navigation_default_default6</item>
+		<item>Однокласники</item>
+		<item>http://www.odnoklassniki.ru/</item>
+		<item>site_navigation_default_default7</item>
+		<item>ВКонтакті</item>
+		<item>http://vk.com/</item>
+		<item>site_navigation_default_default8</item>
+		<item>AVITO.ru</item>
+		<item>http://itevent.if.ua/</item>
+		<item>site_navigation_default_default9</item>
+	</string-array>	
+</resources>
